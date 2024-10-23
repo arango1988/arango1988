@@ -3,7 +3,7 @@
 - 🐧 Linux lover - SysAdmin
 - 🤓 Experience with DirectAdmin, cPanel
 - 👨🏽‍💻 Frontend: HTML, CSS, JS, Bootstrap
-- ⚙️ Backend: Python (FastAPI, Flask, Django), Javascript (NodeJS, Express)
+- ⚙️ Backend: Python (FastAPI, Flask), Javascript (NodeJS, Express)
 - 🚀 Networking, Wordpress, Webhosting,  ...
 - 📫  You can find me on [https://www.linkedin.com/in/carlosarango/](https://www.linkedin.com/in/carlosarango/)
 - 🐫 My Blog: [https://camelloremoto.com](https://camelloremoto.com)
