@@ -10,14 +10,14 @@
 ## ⚙️ Tech Stack
 
 ### 👨🏽‍💻 Frontend
-- **Frameworks:** Bootstrap  
+- **Frameworks:** Bootstrap *(learning Angular)*  
 - **CSS Methodology:** BEM  
 - **CSS Preprocessors:** Less  
 - HTML5, CSS3, JavaScript, jQuery, Responsive Design
 
 ### 🛠️ Backend
-- **Python:** FastAPI, Flask
-- **JavaScript:** Node.js, Express
+- **Python:** FastAPI, Flask  
+- **JavaScript:** Node.js, Express  
 
 ### 📦 Web Hosting & Panels
 - DirectAdmin, cPanel  
@@ -33,7 +33,14 @@
 ## 🚀 What I Enjoy
 - Building full-stack web apps  
 - Managing Linux servers and automation  
+- Writing clean, modular code  
 - Helping others grow in tech 💡
+
+---
+
+## 📚 Currently Learning
+- Angular
+- Flutter
 
 ---
 
