@@ -10,7 +10,7 @@
 ## ⚙️ Tech Stack
 
 ### 👨🏽‍💻 Frontend
-- **Frameworks:** Bootstrap *(learning Angular)*  
+- **Frameworks:** Bootstrap, Angular  
 - **CSS Methodology:** BEM  
 - **CSS Preprocessors:** Less  
 - HTML5, CSS3, JavaScript, jQuery, Responsive Design
