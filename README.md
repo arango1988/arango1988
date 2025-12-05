@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Charly (@arango1988)
 
-☕ From the Coffee Land — **Colombia**  
+☕ From the Coffee Region — **Colombia**  
 🐧 Linux lover | 🖥️ SysAdmin | 🌐 Web Developer  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlosarango/)  
 ✍️ I also write at [camelloremoto.com](https://camelloremoto.com)
@@ -16,7 +16,7 @@
 - HTML5, CSS3, JavaScript, jQuery, Responsive Design
 
 ### 🛠️ Backend
-- **Python:** FastAPI, Flask  
+- **Python:** FastAPI, Django, Flask  
 - **JavaScript:** Node.js, Express  
 
 ### 📦 Web Hosting & Panels
@@ -25,7 +25,8 @@
 
 ### 🐧 Linux & Networking
 - Shell scripting, server hardening  
-- DNS, Nginx, Apache  
+- DNS, Nginx, Apache
+- **Monitoring:** Centreon
 - **VPNs:** Tailscale, WireGuard, OpenVPN  
 
 ---
@@ -40,7 +41,8 @@
 
 ## 📚 Currently Learning
 - Angular
-- Flutter
+- Django
+- Finance
 
 ---
 
