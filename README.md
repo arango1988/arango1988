@@ -42,7 +42,7 @@
 ## 📚 Currently Learning
 - Angular
 - Django
-- Finance
+- Finances
 
 ---
 
