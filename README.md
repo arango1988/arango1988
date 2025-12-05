@@ -10,14 +10,17 @@
 ## ⚙️ Tech Stack
 
 ### 👨🏽‍💻 Frontend
-- **Frameworks:** Bootstrap, Angular  
+- **Frameworks:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> Bootstrap, <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular
 - **CSS Methodology:** BEM  
 - **CSS Preprocessors:** Less  
-- HTML5, CSS3, JavaScript, jQuery, Responsive Design
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> CSS3
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> JavaScript
+- Responsive Design
 
 ### 🛠️ Backend
-- **Python:** FastAPI, Django, Flask  
-- **JavaScript:** Node.js, Express  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> **Python:** FastAPI, <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/> Django, Flask  
+- **JavaScript:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> Node.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> Express  
 
 ### 📦 Web Hosting & Panels
 - DirectAdmin, cPanel  
